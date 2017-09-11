@@ -1,0 +1,5 @@
+/build
+.idea/
+admonitor.iml
+.gradle
+local.properties
